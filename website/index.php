@@ -1,6 +1,1 @@
-<?php
-
-require 'config.php';
-require 'functions.php';
-
-run();
+<?php echo "Hello, AppleBiteCo!"; ?>
